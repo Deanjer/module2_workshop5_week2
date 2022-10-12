@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+  }
+  #container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .item {
+    color: #fff;
+    background: #2d2d2d;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-top: 120px;
+  }
+  .item2 {
+    color: #fff;
+    background: #2d2d2d;
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+  }
+  .item3 {
+    color: #fff;
+    background: #2d2d2d;
+    display: inline-block;
+    margin-top: 350px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+  }
